@@ -1,1 +1,1 @@
-https://sketcher-1.github.io/text-to-qr/
+https://rishabh-kumar17.github.io/text-to-qr/
